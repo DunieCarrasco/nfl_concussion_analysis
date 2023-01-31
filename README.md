@@ -84,7 +84,6 @@ Kelsey Brantner
 •	Ran statistical analysis, (4 independent t-tests) on data set using both my code and code Joel created for the analysis
 •	Helped write introduction and statistical analysis
 •	Created the code for the following graphs and images:
-o	Injuries_per_team_2012-2014
 o	Number_of_Downs_Before_and_After_Injury
 o	Number_of_Games_Missed
 o	Team_Map
