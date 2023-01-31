@@ -49,7 +49,35 @@ What team inflicted the most concussions?
 
 ![Number_of_Downs_Before_and_After_Injury](https://user-images.githubusercontent.com/117327499/215873695-e35e973a-373a-468c-835c-591b0a29992b.png)
 
-#
+#Statistical Analysis:
+Do Head Injuries or concussions cause players to miss more games?
+•	Ho: If head injuries impact a player’s ability to participate as much as concussions, then there will not be a difference in mean number of games missed
+•	Ha: If head injuries do not impact a player’s ability to participate as much as concussions, then there will be a difference in mean number of games missed
+•	Independent t-test
+•	pvalue=0.35 
+•	Not Statistically Significant
+
+Injuries impact play time?
+•	Ho: If head injuries do not impact a player’s ability to participate, then there will not be a difference in mean number of downs played after injury compared to downs played before injury.
+•	Ha: If head injuries do impact a player’s ability to participate, then there will be a difference in mean number of downs played after injury compared to downs played before injury.
+•	Independent t-test
+•	pvalue=0.012
+•	Statistically Significant
+
+Do offensive or defensive players miss more games from injuries?
+•	Ho: If being an offensive or defensive player is not related to the number of games missed after injury, then there will not be a difference in mean number of games missed.
+•	Ha: If being an offensive or defensive player is related to the number of games missed after injury, then there will be a difference in the mean number of games missed.
+•	Independent t-test
+•	pvalue=0.078
+•	Not statistically significant
+
+Do offensive or defensive players have more injuries?
+•	Ho: If offensive and defensive players are as susceptible to injury, then there will not be a difference in mean number injuries received over the three seasons of play between offense and defense.
+•	Ha If offensive and defensive players are not as susceptible to injury, then there will be a difference in mean number injuries received over the three seasons of play between offense and defense.
+•	Independent t-test
+•	pvalue=0.74
+•Not statistically significant
+
 
 # Authors and acknowledgment
 Kelsey Brantner
