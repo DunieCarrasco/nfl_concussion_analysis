@@ -34,6 +34,14 @@ to better understand the impact head injuries have on the players and on the gam
 
 ![Injuries_per_year](https://user-images.githubusercontent.com/86619869/215666888-f7a52cc6-cd9a-4777-a7aa-fba1b732be79.png)
 
+![Number_of_Wins_Loses_of_Teams_with_an_Injured_Player_2012-2014](https://user-images.githubusercontent.com/117786548/215682349-487dd7b4-0b4c-4e6d-97ea-97773573a1a9.png)
+
+![win_count_Teams_with_an_Injury](https://user-images.githubusercontent.com/117786548/215684637-70ca5561-ab5b-44df-bd75-fc779a2acbaa.png)
+
+![Number_of_Wins_Loss_of_Teams_Inflicting_an_injury_to_the_other_team_2012-2014](https://user-images.githubusercontent.com/117786548/215682596-15614ba5-69a7-4c10-b647-2fe102255193.png)
+
+![Teams_Win_Lose_Rate_with_Inflicting_Injury](https://user-images.githubusercontent.com/117786548/215685404-0968abfd-8abe-4aff-8d81-4961685b13a9.png)
+
 
 # Authors and acknowledgment
 Kelsey Brantner
