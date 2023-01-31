@@ -114,6 +114,13 @@ o	Team_Map
 
 
 Daniel Carrasco
+* Created code that grouped and graphed teams head injuries to wins/loses
+* Breakdown of teams with the most head injuries
+* Breakdown of teams that inflicts the most head injuries
+* Compared how head injuries affected teams wins/loss
+* Compared how inflicting head injuries affected teams wins/loss
+* Percentage of wins/loss in pie chart for both injured and inflicting injuries
+
 
 Joel Pangilinan
 * Helped clean the dataframe
