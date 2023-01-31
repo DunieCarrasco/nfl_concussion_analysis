@@ -18,37 +18,11 @@ to better understand the impact head injuries have on the players and on the gam
 
 
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Visuals
 
-
-
-
-
-
 NFL injuries
+![3D_graph](https://user-images.githubusercontent.com/86619869/215665889-3d9677a3-90a1-4b48-a2b5-30e3ca5fa79e.png)
+
 
 
 
