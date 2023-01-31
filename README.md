@@ -9,12 +9,17 @@ looked at the number of head injuries, including concussions that occurred in th
 The data used in this project came from:Project Team 02 decided to attempt to answer the following questions in order 
 to better understand the impact head injuries have on the players and on the game itself:
 
-* How long were players out?
-* How did the injury affect the player’s playtime?
-* What position gets the most concussions on both offense and defense?
-* How did the team fare (win or lose?) when they had a player with a head injury?
-* What team is most prone to concussions?
-* What team inflicted the most concussions?
+Do Head Injuries or concussions cause players to miss more games?
+How long were players out? 
+How did the injury affect the player’s playtime? 
+What position gets the most concussions on both offense and defense?
+Do offensive or defensive players miss more games from injuries?
+Do offensive or defensive players have more injuries?
+How did the team fare (win or lose?) when they had a player with a head injury?
+What team is most prone to concussions?
+What team inflicted the most concussions? 
+
+
 
 
 
@@ -42,9 +47,20 @@ to better understand the impact head injuries have on the players and on the gam
 
 ![Teams_Win_Lose_Rate_with_Inflicting_Injury](https://user-images.githubusercontent.com/117786548/215685404-0968abfd-8abe-4aff-8d81-4961685b13a9.png)
 
+![Number_of_Downs_Before_and_After_Injury](https://user-images.githubusercontent.com/117327499/215873695-e35e973a-373a-468c-835c-591b0a29992b.png)
+
+#
 
 # Authors and acknowledgment
 Kelsey Brantner
+•	Ran statistical analysis, (4 independent t-tests) on data set using both my code and code Joel created for the analysis
+•	Helped write introduction and statistical analysis
+•	Created the code for the following graphs and images:
+o	Injuries_per_team_2012-2014
+o	Number_of_Downs_Before_and_After_Injury
+o	Number_of_Games_Missed
+o	Team_Map
+
 
 Daniel Carrasco
 
@@ -56,6 +72,22 @@ Joel Pangilinan
 * Breakdown of injuries by positions
 * Percentage of injuries on offensive teams compared to defensive teams
 * Injury trend
+
+# References:
+Dataset:
+https://data.world/alice-c/nfl
+
+News articles:
+https://www.pbs.org/wgbh/frontline/investigation/the-nfls-concussion-crisis/
+
+NFL protocol on concussions:
+https://www.nfl.com/playerhealthandsafety/resources/fact-sheets/nfl-head-neck-and-spine-committee-s-concussion-diagnosis-and-management-protocol
+
+CDC:
+https://www.cdc.gov/traumaticbraininjury/concussion/index.html 
+
+
+
 
 # Project status
 Completed
