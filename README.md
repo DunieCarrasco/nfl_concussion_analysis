@@ -23,5 +23,9 @@ to better understand the impact head injuries have on the players and on the gam
 NFL injuries
 ![3D_graph](https://user-images.githubusercontent.com/86619869/215665889-3d9677a3-90a1-4b48-a2b5-30e3ca5fa79e.png)
 
+Number of injuries per team
+![Injuries_per_team_2012-2014](https://user-images.githubusercontent.com/86619869/215666652-5c1a105d-19f0-46ea-a346-68585d194496.png)
+
+
 
 
