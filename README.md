@@ -1,4 +1,4 @@
-#NFL Concussion Analysis
+# NFL Concussion Analysis
 
 
 Each year a number of players in the NFL experience head injuries or concussions. 
