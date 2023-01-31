@@ -35,6 +35,19 @@ to better understand the impact head injuries have on the players and on the gam
 ![Injuries_per_year](https://user-images.githubusercontent.com/86619869/215666888-f7a52cc6-cd9a-4777-a7aa-fba1b732be79.png)
 
 
+# Authors and acknowledgment
+Kelsey Brantner
+
+Daniel Carrasco
+
+Joel Pangilinan
+* Helped clean the dataframe
+* Created the code that produced the following graphs
+* 3D rendering of injuries per NFL team and per year
+* Number of injuries per year
+* Breakdown of injuries by positions
+* Percentage of injuries on offensive teams compared to defensive teams
+* Injury trend
 
 
 
