@@ -26,6 +26,7 @@ NFL injuries
 Number of injuries per team
 ![Injuries_per_team_2012-2014](https://user-images.githubusercontent.com/86619869/215665983-03889222-7100-40d4-a409-01c70ffdea52.png)
 
+
 Number of games missed from injury
 ![Number_of_Games_Missed](https://user-images.githubusercontent.com/86619869/215666035-25a46f05-1630-480e-ad51-f162f217886c.png)
 
