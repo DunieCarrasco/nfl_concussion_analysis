@@ -1,4 +1,4 @@
-#NFL Concussion Analysis
+# NFL Concussion Analysis
 
 
 Each year a number of players in the NFL experience head injuries or concussions. 
@@ -78,6 +78,30 @@ Do offensive or defensive players have more injuries?
 •	pvalue=0.74
 •Not statistically significant
 
+# Additional Questions Answered
+How long were players out? 
+ Most players that were involved in a head injury were back by the next game.
+
+What position gets the most concussions on both offense and defense?
+Offense: Wide Receiver
+Defense: Cornerback 
+
+How did the team fare (win or lose?) when they had a player with a head injury?
+Injured Teams fare worse, with a 45.5% win rate during games with an injury.
+Injury Inflicting Teams fare better, with a 54.5% win rate during games where they inflicted an injury on the opposing team.
+
+What team is most prone to concussions?
+Jacksonville Jaguars with 21 injuries
+
+What team inflicted the most concussions? 
+Cleveland Bears with 19 inflicted injuries
+
+# Further Research
+Increases size of the dataset
+The original dataset is small
+Very limited readily available datasets were public 
+Determine the number of players with multiple head injuries 
+
 
 # Authors and acknowledgment
 Kelsey Brantner
@@ -90,6 +114,13 @@ o	Team_Map
 
 
 Daniel Carrasco
+* Created code that grouped and graphed teams head injuries to wins/loses
+* Breakdown of teams with the most head injuries
+* Breakdown of teams that inflicts the most head injuries
+* Compared how head injuries affected teams wins/loss
+* Compared how inflicting head injuries affected teams wins/loss
+* Percentage of wins/loss in pie chart for both injured and inflicting injuries
+
 
 Joel Pangilinan
 * Helped clean the dataframe
