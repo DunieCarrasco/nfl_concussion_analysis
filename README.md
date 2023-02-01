@@ -6,7 +6,8 @@ As fans of football, it is important to consider the risks players are putting t
 This is especially important to consider since mild traumatic brain injuries or concussions can cause damage to the brain. 
 This in turn can impact sleep, thinking, actions, learning, and feelings.To better understand the data Project Team 02, 
 looked at the number of head injuries, including concussions that occurred in the NFL in seasons 2012-2014. 
-The data used in this project came from:Project Team 02 decided to attempt to answer the following questions in order 
+
+Project Team 02 decided to attempt to answer the following questions in order 
 to better understand the impact head injuries have on the players and on the game itself:
 
 Do Head Injuries or concussions cause players to miss more games?
@@ -114,6 +115,13 @@ o	Team_Map
 
 
 Daniel Carrasco
+* Created code that grouped and graphed teams head injuries to wins/loses
+* Breakdown of teams with the most head injuries
+* Breakdown of teams that inflicts the most head injuries
+* Compared how head injuries affected teams wins/loss
+* Compared how inflicting head injuries affected teams wins/loss
+* Percentage of wins/loss in pie chart for both injured and inflicting injuries
+
 
 Joel Pangilinan
 * Helped clean the dataframe
