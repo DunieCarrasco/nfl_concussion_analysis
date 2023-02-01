@@ -136,6 +136,9 @@ Joel Pangilinan
 Dataset:
 https://data.world/alice-c/nfl
 
+Location Data:
+https://www.geoapify.com/
+
 News articles:
 https://www.pbs.org/wgbh/frontline/investigation/the-nfls-concussion-crisis/
 
