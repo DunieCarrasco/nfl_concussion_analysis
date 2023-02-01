@@ -50,6 +50,10 @@ What team inflicted the most concussions?
 
 ![Number_of_Downs_Before_and_After_Injury](https://user-images.githubusercontent.com/117327499/215873695-e35e973a-373a-468c-835c-591b0a29992b.png)
 
+![Team_Map](https://user-images.githubusercontent.com/117327499/215969755-83f73f4f-53ff-4e37-8735-52581745572d.png)
+
+
+
 #Statistical Analysis:
 Do Head Injuries or concussions cause players to miss more games?
 •	Ho: If head injuries impact a player’s ability to participate as much as concussions, then there will not be a difference in mean number of games missed
@@ -135,6 +139,9 @@ Joel Pangilinan
 # References:
 Dataset:
 https://data.world/alice-c/nfl
+
+Location Data:
+https://www.geoapify.com/
 
 News articles:
 https://www.pbs.org/wgbh/frontline/investigation/the-nfls-concussion-crisis/
