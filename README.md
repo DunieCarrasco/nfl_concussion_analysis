@@ -50,7 +50,8 @@ What team inflicted the most concussions?
 
 ![Number_of_Downs_Before_and_After_Injury](https://user-images.githubusercontent.com/117327499/215873695-e35e973a-373a-468c-835c-591b0a29992b.png)
 
-![Team_Map](https://user-images.githubusercontent.com/117327499/215969263-5a10b33e-9409-4031-8768-9ece7b0151e5.png)
+![Team_Map](https://user-images.githubusercontent.com/117327499/215969755-83f73f4f-53ff-4e37-8735-52581745572d.png)
+
 
 
 #Statistical Analysis:
